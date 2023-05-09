@@ -4,9 +4,9 @@ This project aims to build a proof of concept web application that showcases dif
 
 ## Repository Structure
 
-- `data/`: Contains the DOODL Supermarket dataset used for the analysis.
-- `src/`: Source code files for data preprocessing, model implementation, and MCMC simulations.
-- `results/`: Output files, visualizations, and summary reports generated during the analysis.
+- `data/`: Contains the MovieLens-100K dataset used for the recommender.
+- `src/`: Source code files for web app and recommender.
+- `results/`: Output files, visualizations, and summary reports generated during the project.
 - `README.md`: Project overview and instructions for running the code.
 
 ## Prerequisites
